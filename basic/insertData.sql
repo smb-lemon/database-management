@@ -1,0 +1,1 @@
+INSERT INTO vehicle (car-brand,bus-brand,car-color,bus-color) VALUES ('Audi', 'Mercedes', 'Black', 'Of-white')
